@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-Commerce API
 
 A robust, production-ready REST API for e-commerce applications built with Node.js and Express. Features JWT authentication, product catalog with advanced filtering, shopping cart logic, order management, Stripe payment integration, image uploads, and an admin dashboard.

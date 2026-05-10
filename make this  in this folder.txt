@@ -1,0 +1,5 @@
+Instead of a simple "storefront," build a robust backend that handles the complex logic of online retail. This proves you can manage data integrity and complex workflows.
+
+Key Features: User authentication (JWT/OAuth), product catalog with filtering/search, shopping cart logic, and a mock payment gateway integration (like Stripe or PayPal).
+
+Pro Touch: Implement image uploading for products and an admin dashboard to manage inventory.
